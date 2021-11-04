@@ -1,5 +1,4 @@
 package kata4.view;
-
 import java.util.List;
 import kata4.model.Histogram;
 import kata4.model.Mail;

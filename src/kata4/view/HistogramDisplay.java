@@ -1,5 +1,4 @@
 package kata4.view;
-
 import java.awt.Dimension;
 import javax.swing.JPanel;
 import kata4.model.Histogram;
@@ -20,7 +19,6 @@ public class HistogramDisplay extends ApplicationFrame{
         setContentPane(createPanel());
         pack();
     }
-
     public void execute(){
         setVisible(true);
     }
